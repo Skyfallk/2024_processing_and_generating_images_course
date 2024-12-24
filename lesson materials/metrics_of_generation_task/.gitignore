@@ -1,0 +1,8 @@
+.venv
+.vscode
+
+# Data directory
+data/
+
+# Anomaly Detection example
+/src/Unsupervised-Anomaly-Detection-with-SSIM-AE/model_weights
